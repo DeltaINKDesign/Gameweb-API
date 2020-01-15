@@ -614,5 +614,38 @@ margin-top: 10px;
 }
 
 
+div.glowny {
+	
+	width: 600px;
+	height: 700px;
+	margin: 0 auto;
+	padding: 0px;
+	}
+	
+	div.lewy {
+		padding-top: 30px;
+	width: 300px;
+	height: 300px;
+	float: left;
+	margin: 0px;
+	border-radius: 45%;
+	}
+	
+	div.prawy {
+		padding-top: 30px;
+	width: 300px;
+	height: 300px;
+	float: right;
+	margin: 0px;
+	
+	}
+
+	p.opis-gra{
+		
+		font-size: 13px;
+		
+	}
+	
+
 
 
